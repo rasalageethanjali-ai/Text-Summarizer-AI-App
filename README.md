@@ -1,6 +1,7 @@
 🌈 Text Summarizer AI App
 🚀 Transform Long Text Into Clear, Concise Summaries — Instantly
-📘 Overview
+
+👉 Live Working Demo: https://geethanjali-ai-text-summarizer-app.hf.space
 
 A powerful AI-driven web application that produces sharp, accurate summaries from any text input. Built using state-of-the-art transformer models, it helps students, researchers, writers, and professionals cut through long documents effortlessly — no coding required.
 
@@ -67,10 +68,6 @@ summarizer = pipeline('summarization', model='facebook/bart-large-cnn')
 result = summarizer("Your input text here")
 print(result)
 
-📷 Screenshots
-
-(Add your screenshot images here)
-
 Clean UI
 
 Multilingual summaries
@@ -83,6 +80,4 @@ Improved handling for long or complex text
 
 MIT License
 
-👤 Author
-
-Rasala Geethanjali
+ Author:Rasala Geethanjali
